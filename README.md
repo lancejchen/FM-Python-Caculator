@@ -1,4 +1,9 @@
-## A easy to use Python financial calulator
+## An easy-to-use Python Financial Calculator
+
+## Dependency
+- Python3.8
+- Numpy
 
 ## License
-Use MIT license
+This project is released under the [MIT license](https://en.wikipedia.org/wiki/MIT_License:w
+)
